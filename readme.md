@@ -75,7 +75,7 @@ print(output.shape)
 
 ## Results
 
-The ConvTransformer model has been evaluated on urban sound dataset with verious hyeprparametrs, models. You can find the detailed comparetive results and comparisons in the [audio_transformer_from_scratch.ipynb](jupyter notebook).
+The ConvTransformer model has been evaluated on urban sound dataset with verious hyeprparametrs, models. You can find the detailed comparetive results and comparisons in the [audio_transformer_from_scratch](jupyter notebook).
 
 
 ## License
