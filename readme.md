@@ -1,4 +1,4 @@
-# ConvTransformer for Classification
+# ConvTransformer for Audio Classification
 
 This repository contains an implementation of a hybrid architecture combining convolutional layers and transformers for classification tasks. The ConvTransformer model leverages the strengths of both convolutional neural networks (CNNs) and transformers to achieve effective feature extraction and classification.
 
