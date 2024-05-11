@@ -1,5 +1,3 @@
-Here's a README file for your ConvTransformer implementation for classification:
-
 # ConvTransformer for Classification
 
 This repository contains an implementation of a hybrid architecture combining convolutional layers and transformers for classification tasks. The ConvTransformer model leverages the strengths of both convolutional neural networks (CNNs) and transformers to achieve effective feature extraction and classification.
