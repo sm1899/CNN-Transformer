@@ -34,7 +34,7 @@ To use the ConvTransformer model, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/convtransformer-classification.git
+   git clone https://github.com/sm1899/convtransformer-classification.git
    ```
 
 2. Install the required dependencies:
